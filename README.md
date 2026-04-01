@@ -22,7 +22,7 @@ python3 -m pip install requests
 ## Usage
 
 ```bash
-python3 streamlinks.py
+python3 ‎Streamlinks.py
 ```
 
 The script will ask you a few questions:
